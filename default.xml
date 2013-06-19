@@ -381,5 +381,6 @@
   <project path="vendor/samsung/u8500-common" name="STEricsson-Android/android_vendor_samsung_u8500-common" revision="cm-10.1_staging" />
   <project path="device/samsung/u8500-common" name="STEricsson-Android/android_device_samsung_u8500-common" revision="cm-10.1_staging" />
   <project path="device/samsung/janice" name="STEricsson-Android/android_device_samsung_janice" revision="cm-10.1_staging" />
+  <project path="device/samsung/janicep" name="STEricsson-Android/android_device_samsung_janicep" revision="cm-10.1_staging" />
 
 </manifest>
