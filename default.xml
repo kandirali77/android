@@ -395,7 +395,7 @@
   <project path="packages/screensavers/Basic" name="CyanogenMod/android_packages_screensavers_Basic" />
   <project path="packages/screensavers/PhotoTable" name="CyanogenMod/android_packages_screensavers_PhotoTable" />
   <project path="packages/screensavers/WebView" name="CyanogenMod/android_packages_screensavers_WebView" />
-  <project path="packages/services/Telephony" name="TeamCanjica/android_packages_services_Telephony" />
+  <project path="packages/services/Telephony" name="CyanogenMod/android_packages_services_Telephony" />
   <project path="packages/wallpapers/Basic" name="CyanogenMod/android_packages_wallpapers_Basic" />
   <project path="packages/wallpapers/Galaxy4" name="CyanogenMod/android_packages_wallpapers_Galaxy4" />
   <project path="packages/wallpapers/HoloSpiral" name="CyanogenMod/android_packages_wallpapers_HoloSpiral" />
@@ -477,6 +477,7 @@
 
   <project path="kernel/samsung/u8500" name="TeamCanjica/Samsung_STE_Kernel" revision="3.0.31" />
   <project path="device/samsung/janice" name="TeamCanjica/android_device_samsung_janice" revision="cm-11.0" />
+  <project path="device/samsung/janicep" name="TeamCanjica/android_device_samsung_janicep" revision="cm-11.0" />
   <project path="device/samsung/codina" name="TeamCanjica/android_device_samsung_codina" revision="cm-11.0" />
   <project path="device/samsung/codinap" name="TeamCanjica/android_device_samsung_codinap" revision="cm-11.0" />
   <project path="vendor/samsung/u8500-common" name="TeamCanjica/android_vendor_samsung_u8500-common" revision="cm-11.0" />
