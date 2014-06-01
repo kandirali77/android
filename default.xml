@@ -489,7 +489,7 @@
   <project path="device/samsung/janicep" name="TeamCanjica/android_device_samsung_janicep" revision="cm-11.0" />
   <project path="device/samsung/u8500-common" name="TeamCanjica/android_device_samsung_u8500-common" revision="cm-11.0" />
   <project path="hardware/u8500" name="TeamCanjica/android_hardware_u8500" revision="cm-11.0" />
-  <project path="kernel/samsung/u8500" name="TeamCanjica/Samsung_STE_Kernel" revision="3.0.31" />
+  <project path="kernel/samsung/u8500" name="TeamCanjica/Samsung_STE_Kernel" revision="3.0.101" />
   <project path="vendor/samsung/u8500-common" name="TeamCanjica/android_vendor_samsung_u8500-common" revision="cm-11.0" />
   <project path="packages/apps/DeviceSettings" name="TeamCanjica/android_packages_apps_DeviceSettings" revision="master" />
 
