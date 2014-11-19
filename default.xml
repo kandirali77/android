@@ -511,5 +511,5 @@
 
   <project path="device/samsung/s3ve3g" name="Rox-/android_device_samsung_s3ve3g" revision="master" />
   <project path="vendor/samsung/s3ve3g" name="Rox-/android_vendor_samsung_s3ve3g" revision="master" />
-  <project path="kernel/samsung/s3ve3g" name="Rox-/android_kernel_samsung_s3ve3g" revision="master" />
+  <project path="kernel/samsung/s3ve3g" name="Rox-/android_kernel_samsung_s3ve3g" revision="cm-11.0" />
 </manifest>
