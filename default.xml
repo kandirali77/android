@@ -92,8 +92,8 @@
   <project name="CyanogenMod/android_system_netd" path="system/netd"/>
   <project name="CyanogenMod/android_vendor_cm" path="vendor/cm"/>
 <!--  <project name="cyngn/android_vendor_cyngn" path="vendor/cyngn"/> -->
-  <project name="mer-hybris/android_bionic" path="bionic" revision="hybris-11.0-44S"/>
-  <project name="mer-hybris/android_build" path="build" revision="hybris-11.0-44S">
+  <project name="/CyanogenMod/android_bionic" path="bionic" revision="hybris-11.0-44S"/>
+  <project name="CyanogenMod/android_build" path="build" revision="hybris-11.0-44S">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="mer-hybris/android_external_busybox" path="external/busybox" revision="hybris-11.0"/>
