@@ -23,7 +23,7 @@
   <project path="hybris/droid-hal-version-codina" name="kandirali77/droid-hal-version-codina" revision="master" />
 
   <project name="CyanogenMod/android_abi_cpp" path="abi/cpp"/>
-  <project name="CyanogenMod/android_bootable_recovery" path="bootable/recovery"/>
+  <project name="kandirali77/android_bootable_recovery" path="bootable/recovery"/>
   <project name="CyanogenMod/android_bootable_recovery-cm" path="bootable/recovery-cm"/>
   <project name="CyanogenMod/android_device_common" path="device/common"/>
   <project name="CyanogenMod/android_device_generic_common" path="device/generic/common"/>
@@ -109,7 +109,7 @@
   <project name="mer-hybris/android_external_busybox" path="external/busybox" revision="hybris-11.0"/>
   <project name="mer-hybris/android_frameworks_native" path="frameworks/native" revision="hybris-11.0-44S"/>
   <project name="mer-hybris/android_hardware_libhardware" path="hardware/libhardware" revision="hybris-11.0-44S"/>
-  <project name="mer-hybris/android_hardware_qcom_display-caf" path="hardware/qcom/display-caf" revision="hybris-11.0-44S"/>
+  <project name="kandirali77/android_hardware_qcom_display-caf" path="hardware/qcom/display-caf" revision="hybris-11.0-44S"/>
   <project name="mer-hybris/android_system_core" path="system/core" revision="hybris-11.0-44S"/>
   <project name="kandirali77/hybris-boot" path="hybris/hybris-boot" revision="master"/>
   <project name="mer-hybris/mer-kernel-check" path="hybris/mer-kernel-check" revision="master"/>
