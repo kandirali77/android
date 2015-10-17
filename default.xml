@@ -17,13 +17,38 @@
   <project path="kernel/samsung/u8500" name="kandirali77/Samsung_STE_Kernel" revision="3.0.101" />
   <project path="hardware/u8500" name="TeamCanjica/android_hardware_u8500" revision="cm-11.0" />
   <project path="vendor/samsung/u8500-common" name="TeamCanjica/android_vendor_samsung_u8500-common" revision="cm-11.0" />
+
+  <project path="bootable/recovery" name="kandirali77/android_bootable_recovery" />
+  <project path="hybris/hybris-boot" name="kandirali77/hybris-boot" revision="master"/>
+  <project path="hardware/qcom/display-caf" name="kandirali77/android_hardware_qcom_display-caf" revision="hybris-11.0-44S"/>
+  <project path="system/vold" name="kandirali77/android_system_vold" revision="cm-11.0" />
+
 <!-- rpm related repos for sailfish os -->
   <project path="rpm/" name="kandirali77/droid-hal-codina" revision="master" />
   <project path="hybris/droid-configs" name="kandirali77/droid-config-codina" revision="master" />
   <project path="hybris/droid-hal-version-codina" name="kandirali77/droid-hal-version-codina" revision="master" />
 
+<!-- extras from breakfast -->
+  <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" revision="refs/heads/cm-11.0" />
+
+  <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
+  <project path="external/nist-sip" name="CyanogenMod/android_external_nist-sip" />
+  <project path="external/tagsoup" name="CyanogenMod/android_external_tagsoup" />
+  <project path="frameworks/opt/net/voip" name="CyanogenMod/android_frameworks_opt_net_voip" />
+  <project path="frameworks/opt/telephony" name="Rox-/android_frameworks_opt_telephony" />
+  <project path="frameworks/support" name="CyanogenMod/android_frameworks_support" />
+  <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" />
+  <project path="external/koush/Superuser" name="CyanogenMod/Superuser" />
+  <project path="external/pigz" name="CyanogenMod/android_external_pigz" />
+  <project path="external/fsck_msdos" name="CyanogenMod/android_external_fsck_msdos" />
+  <project path="external/f2fs-tools" name="CyanogenMod/android_external_f2fs-tools" />
+  <project path="external/scrypt" name="platform/external/scrypt" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
+  <project path="external/elfutils" name="CyanogenMod/android_external_elfutils" />
+  <project path="external/curl" name="CyanogenMod/android_external_curl" />
+  <project path="external/bash" name="CyanogenMod/android_external_bash" />
+  <project path="prebuilts/python/linux-x86/2.7.5" name="platform/prebuilts/python/linux-x86/2.7.5" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
+
   <project name="CyanogenMod/android_abi_cpp" path="abi/cpp"/>
-  <project name="kandirali77/android_bootable_recovery" path="bootable/recovery"/>
   <project name="CyanogenMod/android_bootable_recovery-cm" path="bootable/recovery-cm"/>
   <project name="CyanogenMod/android_device_common" path="device/common"/>
   <project name="CyanogenMod/android_device_generic_common" path="device/generic/common"/>
@@ -109,9 +134,7 @@
   <project name="mer-hybris/android_external_busybox" path="external/busybox" revision="hybris-11.0"/>
   <project name="mer-hybris/android_frameworks_native" path="frameworks/native" revision="hybris-11.0-44S"/>
   <project name="mer-hybris/android_hardware_libhardware" path="hardware/libhardware" revision="hybris-11.0-44S"/>
-  <project name="kandirali77/android_hardware_qcom_display-caf" path="hardware/qcom/display-caf" revision="hybris-11.0-44S"/>
   <project name="mer-hybris/android_system_core" path="system/core" revision="hybris-11.0-44S"/>
-  <project name="kandirali77/hybris-boot" path="hybris/hybris-boot" revision="master"/>
   <project name="mer-hybris/mer-kernel-check" path="hybris/mer-kernel-check" revision="master"/>
   <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" remote="aosp" revision="refs/tags/android-4.4.2_r2"/>
   <project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" remote="aosp" revision="refs/tags/android-4.4.2_r2"/>
