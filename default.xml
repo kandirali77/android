@@ -29,7 +29,7 @@
   <project path="hybris/droid-hal-version-codina" name="kandirali77/droid-hal-version-codina" revision="master" />
 
 <!-- extras from breakfast -->
-  <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" revision="refs/heads/cm-11.0" />
+  <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" revision="cm-11.0" />
 
   <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
   <project path="external/bash" name="CyanogenMod/android_external_bash" />
@@ -44,7 +44,7 @@
   <project path="external/fuse" name="CyanogenMod/android_external_fuse" />
   <project path="external/koush/Superuser" name="CyanogenMod/Superuser" />
   <project path="external/libtar" name="CyanogenMod/android_external_libtar" />
-  <project path="external/libtruezip" name="CyanogenMod/android_external_libtruezip" />
+  <project path="external/libtruezip" name="CyanogenMod/android_external_libtruezip" revision="cm-11.0" />
   <project path="external/lzma" name="platform/external/lzma" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/lsof" name="CyanogenMod/android_external_lsof" />
   <project path="external/lzo" name="CyanogenMod/android_external_lzo" />
@@ -58,7 +58,7 @@
   <project path="external/tinycompress" name="CyanogenMod/android_external_tinycompress" />
   <project path="external/tinyxml" name="CyanogenMod/android_external_tinyxml" />
   <project path="external/tinyxml2" name="CyanogenMod/android_external_tinyxml2" />
-  <project path="external/zip" name="CyanogenMod/android_external_zip" />
+  <project path="external/zip" name="CyanogenMod/android_external_zip" revision="cm-11.0" />
   <project path="frameworks/opt/net/voip" name="CyanogenMod/android_frameworks_opt_net_voip" />
   <project path="frameworks/opt/telephony" name="Rox-/android_frameworks_opt_telephony" />
   <project path="frameworks/support" name="CyanogenMod/android_frameworks_support" />
