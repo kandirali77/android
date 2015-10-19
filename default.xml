@@ -14,7 +14,7 @@
            
   <project path="device/samsung/codina" name="kandirali77/android_device_samsung_codina" revision="cm-11.0" />
   <project path="device/samsung/u8500-common" name="kandirali77/android_device_samsung_u8500-common" revision="cm-11.0" />
-  <project path="kernel/samsung/u8500" name="ChronoMonochrome/Samsung_STE_Kernel" revision="stable" />
+  <project path="kernel/samsung/u8500" name="kandirali77/Samsung_STE_Kernel" revision="stable" />
   <project path="hardware/u8500" name="TeamCanjica/android_hardware_u8500" revision="cm-11.0" />
   <project path="vendor/samsung/u8500-common" name="TeamCanjica/android_vendor_samsung_u8500-common" revision="cm-11.0" />
 
